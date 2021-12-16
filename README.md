@@ -1,2 +1,2 @@
 # responsive-pricing-tables
-Responsive Pricing Tables - HTML/CSS
+Responsive Pricing Tables using - HTML/CSS only
